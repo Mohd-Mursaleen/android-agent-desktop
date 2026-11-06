@@ -100,6 +100,12 @@ If you close the Chromium window by hand, pm2 leaves it closed. Run `pm2 restart
 
 This gives the agent a computer. Controlling normal Android apps (Rapido, Swiggy, any app) is a separate layer: an accessibility service to read the screen and ADB to tap and type. I write about that part in the blog post.
 
+## The bigger picture
+
+How this desktop fits into my full agent setup (watch, tunnel, Android app control):
+
+![iota setup](docs/iota-setup-diagram.png)
+
 ## Blog
 
 The full story, in plain words: [geekymd.me/blog](https://geekymd.me/blog)
